@@ -1,0 +1,7 @@
+{
+  "openaiApiKey":"",
+  "pexelsApiKey": "",
+  "awsAccessKeyId":"",
+  "awsSecretAccessKey":"",
+  "awsRegionName":"us-east-1"
+}

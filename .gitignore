@@ -1,0 +1,13 @@
+.DS_Store
+*.key
+node_modules
+__pycache__
+temp
+settings.json
+engineering/images_for_SAP/**
+engineering/outputs/json/**
+engineering/outputs/html/**
+parts/outputs/json/**
+parts/outputs/html/**
+parts/outputs/output*.*
+CoveoPush.log
